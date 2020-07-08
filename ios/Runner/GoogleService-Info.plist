@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>636442915355-2qhdkh7vetvbfjr3g1j3hgnulk2djtem.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.636442915355-2qhdkh7vetvbfjr3g1j3hgnulk2djtem</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHTzT3ZB1czWqSEPumbZBPOhnUU3LJVG8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>636442915355</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.medfix</string>
+	<key>PROJECT_ID</key>
+	<string>medfix-7d9f8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>medfix-7d9f8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:636442915355:ios:5471c3059b5a307f</string>
+	<key>DATABASE_URL</key>
+	<string>https://medfix-7d9f8.firebaseio.com</string>
+</dict>
+</plist>

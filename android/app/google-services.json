@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "636442915355",
+    "firebase_url": "https://medfix-7d9f8.firebaseio.com",
+    "project_id": "medfix-7d9f8",
+    "storage_bucket": "medfix-7d9f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636442915355:android:5471c3059b5a307f",
+        "android_client_info": {
+          "package_name": "com.example.medfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636442915355-kmv4ui6k9baa2de2om1ipvloj7ql0770.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medfix",
+            "certificate_hash": "4f995b807d9edc7046633575863e65d2683b9ef8"
+          }
+        },
+        {
+          "client_id": "636442915355-s3so0pdv91sutmj3le34400voct14ihv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIS_jeRZypaZ_dCIe4mvn4t1Z2803o424"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636442915355-s3so0pdv91sutmj3le34400voct14ihv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "636442915355-2qhdkh7vetvbfjr3g1j3hgnulk2djtem.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medfix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
